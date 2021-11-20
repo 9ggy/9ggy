@@ -1,16 +1,32 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/882355065359306795/911410717515739186/84878036.png" alt="My pfp | credits to Sechi on youtube!">
+</p>
 
-<!--
-**9ggy/9ggy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+    Hello, <b>I'm 9ggy</b>
+</h1>
 
-Here are some ideas to get you started:
+```py
+  from Eggy import AboutMe as am
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an aspiring computer scientist and a hardworking student. My dream is to work in the field of data science, backend web dev, or networking. My programming experience has been tested in many different projects of different sizes, and i hope to be able to share them with the **Github Community**!
+
+
+ ## Languages i know: 
+ ##### *( Ranked placements in terms of my experience in each language )*
+ > - **Python**
+ > 
+ > - **JavaScript** ***(React, Node, and Vanilla)***
+ > 
+ > - **C#**
+
+<br />
+
+## Langauges I plan on learning
+##### *( Ranked placements in terms of priority  )*
+ > - R
+ > 
+ > - Vue.JS
+ > 
+ > - Java
