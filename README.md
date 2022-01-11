@@ -48,5 +48,5 @@
 
 <div align = "center">
   <img src='https://github-readme-stats.vercel.app/api?username=9ggy&hide=stars&hide_border=true&title_color=ffffff&text_color=b7b7b7&bg_color=22272e&custom_title=My GitHub Statistics'>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&bg_color=22272e&hide_border=true&title_color=ffffff&text_color=b7b7b7&layout=compact'>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=9ggy&bg_color=22272e&hide_border=true&title_color=ffffff&text_color=b7b7b7&layout=compact'>
 </div>
