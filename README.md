@@ -1,7 +1,3 @@
-<p align="center">
-  <img width='150px' src="https://tr.rbxcdn.com/8e480a5914851392490c24162da8682f/720/720/Avatar/Png" alt="My pfp | credits to Sechi on youtube!">
-</p>
-
 <h1 align="center">
     Hello, <b>I'm 9ggy</b>
 </h1>
