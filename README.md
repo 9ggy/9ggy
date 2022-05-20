@@ -3,13 +3,13 @@
 </h1>
 
 <div align = "center">
-  I am an aspiring computer scientist and a hardworking student. My dream is to work in the field of data science, backend web dev, or networking. My programming experience has   been tested in many different projects of different sizes, and i hope to be able to share them with the <b>Github Community</b>!
+  I am an aspiring computer scientist and a hardworking student. I plan to work in the field of data science, backend web dev, or networking. My programming experience has been tested in many different projects of varying sizes, and i hope to be able to share them with the <b>Github Community</b>!
 </div>
 
 <br />
 <br />
 
-<!-- Table showing both what i know and what im looking to learn. (its using html tables because i wanted it centered; and github doesnt like mixing html with md...) -->
+<!-- Table showing both what i know and what im looking to learn. (its using html tables because i wanted it centered; and github doesnt like mixing html with markdown) -->
 
 <div align = "center">
   <table>
