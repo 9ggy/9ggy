@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://user-images.githubusercontent.com/84878036/171426103-d2569cc3-7b70-47e0-bfc9-09f5bf8a3f4b.png" width=49%/>
     <br/>
-    <img src="https://gpvc.arturio.dev/9ggy" />
+    <img src="https://komarev.com/ghpvc/?username=9ggy&color=ff69b4" />
 </h1>
 
 <div align = "center">
