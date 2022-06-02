@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://user-images.githubusercontent.com/84878036/171426103-d2569cc3-7b70-47e0-bfc9-09f5bf8a3f4b.png" width=49%/>
     <br/>
-    <img src="https://komarev.com/ghpvc/?username=9ggy&color=ff69b4" />
+    <img src="https://user-images.githubusercontent.com/84878036/171550353-b2ee6c7e-2595-4fa2-8942-13c334d7214e.gif" /> <img src="https://komarev.com/ghpvc/?username=9ggy&color=ff69b4" /> <img src="https://user-images.githubusercontent.com/84878036/171550353-b2ee6c7e-2595-4fa2-8942-13c334d7214e.gif" />
 </h1>
 
 <div align = "center">
